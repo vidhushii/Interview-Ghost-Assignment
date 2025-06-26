@@ -1,7 +1,5 @@
 # Resume Editor – Internship Assignment
-
 This project is a web-based **Resume Editor**, built for the internship assignment. It allows users to:
-
 - Upload and edit resume content
 - Enhance individual sections using a mock AI backend
 - Save and retrieve resume data via FastAPI
