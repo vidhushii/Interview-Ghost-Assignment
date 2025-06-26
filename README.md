@@ -1,3 +1,8 @@
+![responsive](https://github.com/user-attachments/assets/85f1e99d-653a-4285-8472-2f1a799d4470)
+![enhance_with_AI](https://github.com/user-attachments/assets/1ac50a07-1a1b-4690-b0a8-34db4e0674ee)
+![download](https://github.com/user-attachments/assets/776e74a4-43b9-4fec-a0e5-adbad7a2dd6f)
+![display](https://github.com/user-attachments/assets/977fd577-ed5b-42e5-a783-8f2df9b470f3)
+![save](https://github.com/user-attachments/assets/dec6cabf-f6fb-46d0-b834-2e915b757829)
 # Resume Editor – Internship Assignment
 This project is a web-based **Resume Editor**, built for the internship assignment. It allows users to:
 - Upload and edit resume content
